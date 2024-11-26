@@ -1,0 +1,6 @@
+export {default as ReferenceDetails} from './referenceDetails'
+export {default as WhatIDoDetails} from './whatIDoDetails'
+export {default as SkillsDetails} from './skillsDetails'
+export {default as Header} from './header'
+export {default as SideDrawer} from './sideDrawer'
+export {default as EducationDetails} from './educationDetails'
